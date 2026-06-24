@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi there, I'm Kavya 👋</h1>
 
 <p align="center">
@@ -90,7 +90,7 @@ A relational database project for managing train schedules, passenger records an
 
 - 💼 LinkedIn: www.linkedin.com/in/kavya-mittal-361a61307
 - 📧 Email: mittalkavya2026@gmail.com
-```
+
 
 
 <!--
